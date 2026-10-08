@@ -1,0 +1,5 @@
+SERVICE PARTNER AGREEMENT
+
+This example agreement is seeded in the Demo workspace when the app starts. It includes payment, confidentiality, liability, indemnity, termination, automatic renewal, penalty, and governing-law clauses so a live demonstration immediately shows the complete LegalEase flow.
+
+For the full analysis-ready text, use the “Try the live demo” button in the application.

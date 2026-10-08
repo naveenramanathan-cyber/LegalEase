@@ -1,0 +1,4 @@
+# The bundled desktop runtime already includes these packages.
+# For a standard local Python install, run: python -m pip install -r requirements.txt
+pypdf>=5.0.0
+reportlab>=4.2.0

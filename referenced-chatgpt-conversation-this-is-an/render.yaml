@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: legalease-mvp
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    healthCheckPath: /api/health
+    envVars:
+      - key: ANALYSIS_MODE
+        value: local
+      - key: PYTHON_VERSION
+        value: 3.12.14
